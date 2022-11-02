@@ -1,0 +1,58 @@
+.resimSlider{
+    height: 600px;
+}
+
+body{
+    padding-top: 50px;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Raleway', sans-serif;
+}
+
+.about{
+    background-color: #f2f2f2;
+}
+
+.brace{
+    border: none;
+    height: 3px;
+    background-color: yellowgreen;
+    max-width: 250px;
+    margin: 25px auto;
+}
+
+.igray{
+    font-size: 40px;
+    position: relative;
+    top: -55px;
+    color: yellowgreen;
+    border: 10px solid #f2f2f2;
+    background-color: #f2f2f2;
+}
+
+.iwhite{
+    font-size: 40px;
+    position: relative;
+    top: -55px;
+    color: yellowgreen;
+    border: 10px solid #ffffff;
+    background-color: #ffffff;
+}
+
+.teamcard:hover{
+    opacity: 0.9;
+    cursor: pointer;
+}
+
+.galary{
+    background-color: #f2f2f2;
+}
+
+.figure:hover{
+    opacity: 0.8;
+}
+
+.contact{
+    background-color: #fff;
+}
+
+
